@@ -110,7 +110,7 @@ const AboutPage = ({ data }) => {
                 </a>
                  and brought to you by {' '} 
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/rhys-owen-6260411bb/">
-                Rhys {' '}
+                Rhys Owen {' '}
                 </a>
                  and {' '}
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/jake-owen-196960a8/">
