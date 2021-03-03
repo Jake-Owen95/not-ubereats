@@ -13,7 +13,7 @@ export default ({ src }) => (
       <Col lg={7} md={6}>
         <h1 className="font-weight-light">Not UberEats</h1>
         <p className={classnames('pt-lg-3 lead text-dark', styles.subtitle)}>
-          A list of local restaurants in Toronto that offer their own delivery service. Support local instead of letting
+          A list of local restaurants in Cape Town that offer their own delivery service. Support local instead of letting
           delivery apps take 30% of every order!
         </p>
         <div>

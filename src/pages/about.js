@@ -47,8 +47,8 @@ const AboutPage = ({ data }) => {
                 Unfortunately, UberEats and many other companies are charging restaurants <b>30%</b> for food delivery.
                 Not only that, food on UberEats is typically <b>more expensive</b> than ordering from the restaurant
                 directly. By ordering from your local restaurant you're putting{' '}
-                <b>more money into the local economy and helping restaurants during this critical time.</b> I built this
-                site to encourage people to order directly and find new local delights.
+                <b>more money into the local economy and helping restaurants during this critical time.</b> Randy Singh built this
+                site for the Torronto area and we have brought it to South Africa to encourage people to order directly and find new local delights.
               </p>
             </Col>
           </Row>
@@ -104,16 +104,19 @@ const AboutPage = ({ data }) => {
                 </a>
               </p>
               <p>
-                This website was built by me,{' '}
+                This website was built by {' '}
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/randynsingh">
                   Randy Singh
                 </a>
-                , in order to help restaurants during this difficult time and I do not profit in any way. Also thank you
-                to{' '}
-                <a target="_blank" rel="noreferrer" href="https://ca.linkedin.com/in/gamaliel-obinyan">
-                  Gamaliel Obinyan
-                </a>{' '}
-                for helping research local restaurants and for the encouragement.
+                 and brought to you by 
+                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/rhys-owen-6260411bb/">
+                  Rhys
+                </a>
+                and 
+                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/jake-owen-196960a8/">
+                  Jake Owen
+                </a>
+                 in order to help restaurants during this difficult time and we do not profit in any way. 
               </p>
             </Col>
           </Row>
