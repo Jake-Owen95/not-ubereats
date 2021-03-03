@@ -97,12 +97,12 @@ const AboutPage = ({ data }) => {
           </Row>
           <Row className="mt-4">
             <Col>
-              <p>
+              {/* <p>
                 Are you a restaurant needing help setting up delivery? Check out{' '}
                 <a target="_blank" rel="noreferrer" href="https://localeats.to/">
                   LocalEats.to
                 </a>
-              </p>
+              </p> */}
               <p>
                 This website was built by {' '}
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/randynsingh">
@@ -116,7 +116,7 @@ const AboutPage = ({ data }) => {
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/jake-owen-196960a8/">
                   Jake Owen {' '}
                 </a>
-                 in order to help restaurants during this difficult time and we do not profit in any way. 
+                 in order to help restaurants during this difficult time. We do not profit in any way. 
               </p>
             </Col>
           </Row>
