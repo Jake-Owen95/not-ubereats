@@ -15,7 +15,7 @@ const Footer = () => (
       <div>
         Brought to you by{' '}
         <a href="https://www.linkedin.com/in/jake-owen-196960a8/" target="_blank" rel="noreferrer">
-          Jake Owen 
+          Jake {' '}
         </a>
          and {' '}
         <a href="https://www.linkedin.com/in/rhys-owen-6260411bb/" target="_blank" rel="noreferrer">

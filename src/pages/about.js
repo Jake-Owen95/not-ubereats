@@ -106,15 +106,15 @@ const AboutPage = ({ data }) => {
               <p>
                 This website was built by {' '}
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/randynsingh">
-                  Randy Singh
+                  Randy Singh {' '}
                 </a>
-                 and brought to you by 
+                 and brought to you by {' '} 
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/rhys-owen-6260411bb/">
-                  Rhys
+                Rhys {' '}
                 </a>
-                and 
+                 and {' '}
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/jake-owen-196960a8/">
-                  Jake Owen
+                  Jake Owen {' '}
                 </a>
                  in order to help restaurants during this difficult time and we do not profit in any way. 
               </p>
