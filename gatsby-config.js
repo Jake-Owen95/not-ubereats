@@ -29,7 +29,7 @@ module.exports = {
       summary: `who lives and works in Toronto building useful things.`,
     },
     description: `Find local restaurants in Toronto and reduce delivery fees for restaurants.`,
-    siteUrl: `https://not-ubereats.com/`,
+    siteUrl: `https://not-ubereats.co.za/`,
   },
   plugins: [
     'gatsby-plugin-sitemap',

@@ -48,7 +48,7 @@ const AboutPage = ({ data }) => {
                 Not only that, food on UberEats is typically <b>more expensive</b> than ordering from the restaurant
                 directly. By ordering from your local restaurant you're putting{' '}
                 <b>more money into the local economy and helping restaurants during this critical time.</b> Randy Singh built this
-                site for the Torronto area and we have brought it to South Africa to encourage people to order directly and find new local delights.
+                site for the Toronto area and we have brought it to South Africa to encourage people to order directly and find new local delights.
               </p>
             </Col>
           </Row>
