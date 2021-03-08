@@ -69,7 +69,7 @@ export default () => (
                 </Card.Body>
               </Accordion.Collapse>
             </Card>
-            <Card>
+            {/* <Card>
               <Accordion.Toggle as={Card.Header} eventKey="4">
                 What gives? Why am I ordering through Ritual?/A DoorDash driver delivered my order?
               </Accordion.Toggle>
@@ -89,7 +89,7 @@ export default () => (
                   <Link to="/about">contact me.</Link>
                 </Card.Body>
               </Accordion.Collapse>
-            </Card>
+            </Card> */}
           </Accordion>
         </Col>
       </Row>
