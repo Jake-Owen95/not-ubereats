@@ -20,9 +20,9 @@ export default ({ src }) => (
           <Link className={classnames('btn btn-secondary', styles.button)} to="/submit-business/">
             Submit a restaurant
           </Link>
-          <Link to="/map" className={classnames('ml-1 btn btn-secondary', styles.button)}>
+          {/* <Link to="/map" className={classnames('ml-1 btn btn-secondary', styles.button)}>
             View map
-          </Link>
+          </Link> */}
         </div>
       </Col>
       <Col lg={5} md={6}>
