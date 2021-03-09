@@ -128,7 +128,7 @@ export default ({ restaurants, searchTerm, showDelivery }) => {
   }, [location, count, filteredRestaurants]);
 
   const createMapUrl = (restaurant) => {
-    return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.name)}+toronto`;
+    return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.name)}+capetown`;
   };
 
   return (
