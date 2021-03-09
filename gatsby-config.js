@@ -28,7 +28,7 @@ module.exports = {
       name: `Randy Singh`,
       summary: `who lives and works in Toronto building useful things.`,
     },
-    description: `Find local restaurants in Toronto and reduce delivery fees for restaurants.`,
+    description: `Find local restaurants in Cape Town and reduce delivery fees for restaurants.`,
     siteUrl: `https://not-ubereats.co.za/`,
   },
   plugins: [
