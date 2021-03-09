@@ -128,10 +128,10 @@ const SubmitBusinessPage = ({ data }) => {
                     <option>Argentinian</option>
                     <option>Breakfast</option>
                     <option>Brazilian</option>
+                    <option>BBQ</option>
                     <option>Canadian</option>
                     <option>Caribbean</option>
                     <option>Chinese</option>
-                    <option>BBQ</option>
                     <option>Desserts</option>
                     <option>Eastern European</option>
                     <option>Ethiopian</option>
@@ -150,6 +150,7 @@ const SubmitBusinessPage = ({ data }) => {
                     <option>Sandwiches</option>
                     <option>Salad</option>
                     <option>Seafood</option>
+                    <option>South African</option>
                     <option>Steakhouse</option>
                     <option>Sushi</option>
                     <option>Thai</option>
