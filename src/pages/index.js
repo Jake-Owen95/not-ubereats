@@ -19,6 +19,7 @@ const Main = ({ data }) => {
       <Nav />
       <Helmet>
         <html lang="en" />
+        <meta name="google-site-verification" content="881SatgegTCIRQoiU6wvfqdj3lHmFBxmQB5f-TYS02Y" />
         <title>{data.site.siteMetadata.title}</title>
         <meta name="description" content={data.site.siteMetadata.description}></meta>
       </Helmet>
