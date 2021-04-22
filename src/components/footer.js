@@ -10,17 +10,13 @@ const Footer = () => (
       <FontAwesomeIcon color="red" icon={faHeart} />
       &nbsp;by{' '}
       <a href="https://www.linkedin.com/in/randynsingh/" target="_blank" rel="noreferrer">
-        Randy Singh.
+        Randy Singh {' '} 
       </a>
-      <div>
-        Brought to you by{' '}
+      and brought to you by{' '}
         <a href="https://www.linkedin.com/in/jake-owen-196960a8/" target="_blank" rel="noreferrer">
           Jake Owen {' '}
         </a>
-         and {' '}
-        <a href="https://www.linkedin.com/in/rhys-owen-6260411bb/" target="_blank" rel="noreferrer">
-          Rhys Owen.
-        </a>
+      <div>
         <div>
           Images are property of their respective owners.
         </div>

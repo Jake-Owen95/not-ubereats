@@ -108,15 +108,18 @@ const AboutPage = ({ data }) => {
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/randynsingh">
                   Randy Singh {' '}
                 </a>
-                 and brought to you by {' '} 
+                 in order to help restaurants during this difficult time. Huge thanks to {' '} 
+                
+                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/dylan-owen-61a1761a0/">
+                  Dylan Owen {' '}
+                </a>  
+                and {' '}
+                
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/rhys-owen-6260411bb/">
-                Rhys Owen {' '}
+                  Rhys Owen {' '} 
                 </a>
-                 and {' '}
-                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/jake-owen-196960a8/">
-                  Jake Owen {' '}
-                </a>
-                 in order to help restaurants during this difficult time. We do not profit in any way. 
+                for all their work researching restuarants, adding them to our directory and helping with the site in general.  
+                The site is maintained in our free time and we do not profit in any way. 
               </p>
             </Col>
           </Row>
