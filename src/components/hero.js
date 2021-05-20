@@ -11,9 +11,9 @@ export default ({ src }) => (
   <Container as="section" className={classnames('text-left py-5', styles.container)}>
     <Row className="py-lg-5">
       <Col lg={7} md={6}>
-        <h1 className="font-weight-light">Not UberEats</h1>
+        <h1 className="font-weight-light">Local Eats</h1>
         <p className={classnames('pt-lg-3 lead text-dark', styles.subtitle)}>
-          A list of local restaurants in Cape Town that offer their own delivery service or pick up. Support local instead of letting
+          A list of local restaurants in South Africa that offer their own delivery services or pick up. Support local instead of letting
           delivery apps take 30% of every order!
         </p>
         <div>
