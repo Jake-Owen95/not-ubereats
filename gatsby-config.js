@@ -25,8 +25,8 @@ module.exports = {
   siteMetadata: {
     title: 'Not UberEats',
     author: {
-      name: `Randy Singh`,
-      summary: `who lives and works in Toronto building useful things.`,
+      name: `Jake Owen`,
+      summary: `who lives and works in Cape Town as a developer.`,
     },
     description: `Find local restaurants in Cape Town and reduce delivery fees for restaurants.`,
     siteUrl: `https://not-ubereats.co.za/`,
