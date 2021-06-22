@@ -155,9 +155,9 @@ export default ({ restaurants, searchTerm, showDelivery }) => {
             </ToggleButtonGroup>
           </div>
           <div>
-            <Button className="pl-0" onClick={() => setShowAddressBar(true)} variant="link" type="submit" size="sm">
+            {/* <Button className="pl-0" onClick={() => setShowAddressBar(true)} variant="link" type="submit" size="sm">
               Not home? Enter address
-            </Button>
+            </Button> */}
             {hasLocationError && (
               <span className={classnames('invalid-feedback', styles.warning)}>
                 Please enable location services on your device or try entering your address below:
