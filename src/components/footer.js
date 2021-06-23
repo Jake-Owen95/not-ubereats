@@ -6,7 +6,7 @@ import { faHeart } from '@fortawesome/free-solid-svg-icons';
 const Footer = () => (
   <div className="footer mt-4 mb-4">
     <div className="text-center">
-      Website by{' '}
+      Brought to you by{' '}
       <a href="https://www.linkedin.com/in/jake-owen-196960a8/" target="_blank" rel="noreferrer">
         Jake Owen {' '} 
       </a>
