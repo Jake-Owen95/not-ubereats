@@ -2,50 +2,30 @@
   Not UberEats
 </h1>
 <p>
-This website was created to help showcase local restaurants in Toronto who offer their own delivery service.
+This website was created to help showcase local restaurants in Cape Town who offer their own delivery service or pick up options.
 
-By showcasing these restaurants I hope that we can help struggling businesses during this difficult time by putting more money in their pocket instead of third-party companies such as UberEats.
+By showcasing these restaurants we hope that we can help struggling businesses during this difficult time, putting more money in their pockets instead of third-party companies such as UberEats.
 
-I built this site using Gatsby, using Contentful CMS and hosted on Netlify. For styling I'm using the React Bootstrap library.
-
-View the running website - https://not-ubereats.com/
+View the running website - https://not-ubereats.co.za/
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8628a000-2043-4016-ac7c-d9c14559d7f7/deploy-status)](https://app.netlify.com/sites/optimistic-wing-8db644/deploys)
+**Technologies:**
 
-## 🚀 Quick start
+Gatsby
+React
+Contentful CMS
+Node.js
+Bootstrap
+Netlify
+Google Places 
+Google Analytics
 
-**Prerequisites:**
+**About my contribution:**
 
-Setup your contentful space by following [the instructions here](https://www.contentful.com/r/knowledgebase/gatsbyjs-and-contentful-in-five-minutes/)
+This project is forked from Randy Singh's github. He wanted the code to be open source for anyone to use and I wanted to bring this website to South Africa. So I forked his repository and got the contentful CMS set up and running, I added a dotenv file with various access keys and tokens setting those up on the carious platforms. 
 
-Requires the following environment variables in a
-.env.development file:
+I then edited the website to show South African restuarants and context. Set up the google places api and google analytics. Sourced restaurants and popluated the site with each ones data via the contentful CMS. 
 
-```
-CONTENTFUL_ACCESS_TOKEN=<access-token>
-CONTENTFUL_SPACE_ID=<space-id>
-GATSBY_GOOGLE_PLACES_KEY=<used-for-location-search>
-```
+Set up domain name at: www.not-uberEats.co.za and hosted the site on netlify for continuios deployment. Fixed bugs such as the sort by distance button not working as a result of restaurant entries having incorrect map locations. 
 
-I've put samples of the content models in the /sample folder you can [import](https://www.contentful.com/developers/docs/tutorials/cli/import-and-export/) if you wish to. If you're interested in being a contributer I can provide you with the current site values.
-
-1.  **Start developing.**
-
-    Navigate to the repo and run:
-
-    ```shell
-    npm run develop
-    ```
-2.  **Open the code and start customizing!**
-
-    Your site is now running at http://localhost:8000!
-
-
-3.  **Learn more**
-
-    - [Gatsby](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Contentful](https://www.contentful.com/r/knowledgebase/gatsbyjs-and-contentful-in-five-minutes/)
-    - [Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/)
-    - [React Bootstrap](https://react-bootstrap.github.io/)
-    - [Google API key](https://developers.google.com/maps/gmp-get-started)
+I still manage and maintain the South African site. 
