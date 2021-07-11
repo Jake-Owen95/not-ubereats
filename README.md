@@ -11,14 +11,14 @@ View the running website - https://not-ubereats.co.za/
 
 **Technologies:**
 
-Gatsby
-React
-Contentful CMS
-Node.js
-Bootstrap
-Netlify
-Google Places 
-Google Analytics
+Gatsby,
+React,
+Contentful CMS,
+Node.js,
+Bootstrap,
+Netlify,
+Google Places, 
+Google Analytics,
 
 **About my contribution:**
 
